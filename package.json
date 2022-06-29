@@ -1,5 +1,5 @@
 {
-  "name": "raganork",
+  "name": "ST tech show",
   "version": "1.0.2",
   "description": "Raganork whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://www.youtube.com/c/STtechshow"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Sakeesha Tharinda",
+  "developer": "@sakeesha",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/raganork/issues"
+    "url": "https://www.youtube.com/c/STtechshow"
   },
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://www.youtube.com/c/STtechshow",
   "dependencies": {
     "@adiwajshing/baileys": "4.1.0",
     "@adiwajshing/keyed-db":"0.2.4",
